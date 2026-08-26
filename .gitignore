@@ -1,1 +1,10 @@
-*.vcd *.out a.out *.vvp data
+# Simulation output
+**/sim/
+
+# Waveform files
+*.vcd
+
+# Compilation output
+*.out
+*.vvp
+a.out
